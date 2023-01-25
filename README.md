@@ -6,9 +6,8 @@ A simple App that will display a List of People. Each Person then has their own 
 
 ## Screenshots
 
-![App Screenshot1](https://i.imgur.com/4dJcKLT.png)
-![App Screenshot1](https://i.imgur.com/ReeGzth.png)
-
+<img src="https://i.imgur.com/ReeGzth.png" width=50% height=50%>
+<img src="https://i.imgur.com/4dJcKLT.png" width=50% height=50%>
 
 ## Authors
 
